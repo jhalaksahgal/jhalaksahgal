@@ -1,4 +1,4 @@
-# Hey, I'm Jhalak 👋
+# Hey, I'm Jhalak
 
 ### `AI/ML Student | Developer | Professional Bug Creator`
 
@@ -10,16 +10,16 @@ Currently pursuing **B.Tech in Computer Science & Engineering (AI & ML)** and tr
 
 ---
 
-## 🧠 A little about me
+## A little about me
 
-* 🤖 AI/ML enthusiast who gives models more attention than they deserve
-* 💻 Full-stack developer when the frontend behaves
-* 🐍 Python enjoyer
-* ☕ Runs on caffeine, curiosity, and `git commit`
-* 🧩 Currently fighting **DSA** one problem at a time
-* 🧠 Exploring **LLMs, RAG, AI Agents & Generative AI**
-* 🔬 Occasionally doing research instead of sleeping
-* 🐛 My biggest project is usually figuring out why my previous project stopped working
+* AI/ML enthusiast who gives models more attention than they deserve
+* Full-stack developer when the frontend behaves
+* Python enjoyer
+* Runs on caffeine, curiosity, and `git commit`
+* Currently fighting **DSA** one problem at a time
+* Exploring **LLMs, RAG, AI Agents & Generative AI**
+* Occasionally doing research instead of sleeping
+* My biggest project is usually figuring out why my previous project stopped working
 
 ```text
 if (codeWorks) {
@@ -31,48 +31,51 @@ if (codeWorks) {
 
 ---
 
-# 🚀 Things I've Built
+# Things I've Built
 
-## 🩺 [Jeevo — AI Health Assistant](https://github.com/jhalaksahgal/jeevo)
+## [Jeevo — AI Health Assistant](https://github.com/jhalaksahgal/jeevo)
 
 An AI-powered health assistant using **RAG + LLMs** to provide context-aware health information.
 
 Because apparently asking an AI about your health is now a thing.
 
 **Tech:**
+
 `Python` `FastAPI` `LangChain` `Groq` `ChromaDB` `PostgreSQL` `Redis` `Docker`
 
-🔗 **[View Repository](https://github.com/jhalaksahgal/jeevo)**
+[**View Repository**](https://github.com/jhalaksahgal/jeevo)
 
 ---
 
-## 🏥 [Medicare](https://github.com/jhalaksahgal/MediCare)
+## [Medicare](https://github.com/jhalaksahgal/MediCare)
 
 A healthcare-focused application designed to make healthcare-related services and information easier to access.
 
 Because healthcare websites should ideally require fewer tutorials than the diseases they talk about.
 
 **Tech:**
+
 `React` `Node.js` `Express.js` `MongoDB`
 
-🔗 **[View Repository](https://github.com/jhalaksahgal/MediCare)**
+[**View Repository**](https://github.com/jhalaksahgal/MediCare)
 
 ---
 
-## 📄 [Resume Builder](https://github.com/jhalaksahgal/resume_builder)
+## [Resume Builder](https://github.com/jhalaksahgal/resume_builder)
 
 A web application for creating professional resumes.
 
 Because spending 4 hours adjusting margins is apparently an essential part of getting a job.
 
 **Tech:**
+
 `React` `JavaScript` `HTML` `CSS`
 
-🔗 **[View Repository](https://github.com/jhalaksahgal/resume_builder)**
+[**View Repository**](https://github.com/jhalaksahgal/resume_builder)
 
 ---
 
-## 🧑‍💻 [Site Builder](https://github.com/jhalaksahgal/site-builder)
+## [Site Builder](https://github.com/jhalaksahgal/site-builder)
 
 A project focused on making website creation simpler and more accessible.
 
@@ -91,13 +94,14 @@ Profit
 Still working on step 3.
 
 **Tech:**
+
 `React` `JavaScript` `HTML` `CSS` `Node.js`
 
-🔗 **[View Repository](https://github.com/jhalaksahgal/site-builder)**
+[**View Repository**](https://github.com/jhalaksahgal/site-builder)
 
 ---
 
-# 🤖 My Current Obsession
+# My Current Obsession
 
 ```text
 LLMs
@@ -117,18 +121,18 @@ Debugging
 
 Currently exploring:
 
-* 🧠 Large Language Models
-* 🔎 Retrieval-Augmented Generation
-* 🤖 AI Agents
-* 🔗 LangChain
-* 📚 Vector Databases
-* 🐍 Python AI ecosystem
-* ⚡ LLM inference
-* 🏗️ Building AI applications that actually work outside a Jupyter Notebook
+* Large Language Models
+* Retrieval-Augmented Generation
+* AI Agents
+* LangChain
+* Vector Databases
+* Python AI ecosystem
+* LLM inference
+* Building AI applications that actually work outside a Jupyter Notebook
 
 ---
 
-# 🛠️ My Weapons of Choice
+# My Weapons of Choice
 
 ### Languages
 
@@ -162,7 +166,7 @@ Currently exploring:
 
 ---
 
-# 💻 DSA Status
+# DSA Status
 
 Currently solving LeetCode problems because apparently knowing how to reverse a linked list is more important than knowing how to build an entire application.
 
@@ -174,7 +178,7 @@ Hard     ███░░░░░░░░░░░░░░░  "Who hurt the i
 
 ---
 
-# 🧪 My Development Process
+# My Development Process
 
 ```text
 1. Get an idea
@@ -200,7 +204,7 @@ Hard     ███░░░░░░░░░░░░░░░  "Who hurt the i
 
 ---
 
-# 🧠 Developer Philosophy
+# Developer Philosophy
 
 > **If it works, understand why.**
 > **If it doesn't work, pretend you understand why.**
@@ -212,7 +216,7 @@ Build → Break → Debug → Learn → Repeat
 
 ---
 
-# 📚 Currently Learning
+# Currently Learning
 
 ```text
 AI/ML
@@ -241,7 +245,7 @@ to:
 
 ---
 
-# 🌐 Let's Connect
+# Let's Connect
 
 <p align="center">
 
@@ -265,9 +269,6 @@ to:
 
 ---
 
-<p align="center">
 
 
-**Probably debugging something right now.** 🐛
-
-</p>
+**Probably debugging something right now.**
